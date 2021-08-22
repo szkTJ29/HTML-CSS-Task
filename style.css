@@ -25,6 +25,7 @@ main {
 .main-steps {
   color: white;
   background-color: #FF9A4B;
+  padding: 3px;
   position: absolute;
   top: 0;
   left: 0;
@@ -54,13 +55,10 @@ main {
   margin: 10px;
 }
 .main-contents {
-  margin: 5px 10px;
+  margin: 10px;
 }
 .main-title {
-  font-size: 18px;
-}
-.main-text {
-  font-size: 13.5px;
+  padding: 5px 0;
 }
 footer {
   height: 50px;
